@@ -14,7 +14,7 @@
 ---
 
 ## 1. Mérés célja
-A mérés célja három különböző típusú antenna, az **Iskra P20**, az **ISKRA P2845** és az **IKUSI FLASHD C48** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián (474 MHz, 570 MHz, és 706 MHz).
+A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**, az **ISKRA P20 LOGPER** és az **Smart HD 550** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián (690 MHz, 554 MHz, és 666 MHz).
 
 ---
 
@@ -31,37 +31,66 @@ A mérés célja három különböző típusú antenna, az **Iskra P20**, az **I
 
 ### 3. **Mérési helyszín és környezet**
 - **Antenna magassága**: 2 m
-- **Környezet jellemzői**: V3 labor
-- **Adó távolsága**: 15 m
+- **Környezet jellemzői**: V3 labor, Iskola belső udvar, Utca
+- **Adó távolsága**: 740 m
 
 ---
 
-## 4. Antennák teljesítménye különböző frekvenciákon
+## 4. Antennák teljesítménye különböző frekvenciákon 
 
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-| ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **474 MHz**      | Iskra P20        | -61.8          | 24.6     | 8.2 – 8.6          |
-|                  | ISKRA P2845      | -58.8          | 26.3     | 8.6 – 9.6          |
-|                  | IKUSI FLASHD C48 | -58.5          | 27.0     | 8.4 – 9.2          |
-| **570 MHz**      | Iskra P20        | -59.0          | 26.6     | 8.2 – 9.2          |
-|                  | ISKRA P2845      | -52.8          | 33.2     | 8.2 – 10.0         |
-|                  | IKUSI FLASHD C48 | -52.6          | 30.0     | 7.8 – 9.2          |
-| **706 MHz**      | Iskra P20        | -56.0          | 24.0     | 8.4 – 9.0          |
-|                  | ISKRA P2845      | -49.0          | 29.0     | 9.0 – 9.8          |
-|                  | IKUSI FLASHD C48 | -49.2          | 28.4     | 8.6 – 9.4          |
+## LABOR
+
+| Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
+| ---------------- | ---------------- | -------------- |
+| **690 MHz**      | IKUSI FLASHD C48 | -67.8          |
+|                  | ISKRA P20 LOGPER | -62.2          | 
+|                  | Smart HD 550     | -59.8          |
+| **554 MHz**      | IKUSI FLASHD C48 | -69.1          |
+|                  | ISKRA P20 LOGPER | -66.5          |
+|                  | Smart HD 550     | -56.1          |
+| **666 MHz**      | IKUSI FLASHD C48 | -68.3          |
+|                  | ISKRA P20 LOGPER | -61.8          |
+|                  | Smart HD 550     | -63.2          |
+
+## UDVAR
+
+| Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
+| ---------------- | ---------------- | -------------- |
+| **690 MHz**      | IKUSI FLASHD C48 | -69.3          |
+|                  | ISKRA P20 LOGPER | -61.4          | 
+|                  | Smart HD 550     | -67.2          |
+| **554 MHz**      | IKUSI FLASHD C48 | -70.2          |
+|                  | ISKRA P20 LOGPER | -64.2          |
+|                  | Smart HD 550     | -65.5          |
+| **666 MHz**      | IKUSI FLASHD C48 | -70.7          |
+|                  | ISKRA P20 LOGPER | -61.9          |
+|                  | Smart HD 550     | -66.0          |
+
+## UTCA
+
+| Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
+| ---------------- | ---------------- | -------------- |
+| **690 MHz**      | IKUSI FLASHD C48 | -71.1          |
+|                  | ISKRA P20 LOGPER | -72.2          | 
+|                  | Smart HD 550     | -69.3          |
+| **554 MHz**      | IKUSI FLASHD C48 | -74.2          |
+|                  | ISKRA P20 LOGPER | -68.6          |
+|                  | Smart HD 550     | -63.9          |
+| **666 MHz**      | IKUSI FLASHD C48 | -72.1          |
+|                  | ISKRA P20 LOGPER | -70.2          |
+|                  | Smart HD 550     | -70.1          |
 
 ---
 
 ## 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
-- **Jelszint (dBm)**: Az **ISKRA P2845** és az **IKUSI FLASHD C48** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 570 MHz frekvencián. Az **ISKRA P20** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
-- **MER (Modulation Error Ratio)**: A **MER** értékek alapján az **ISKRA P2845** antenna mutatta a legjobb teljesítményt, különösen a középső frekvencián (570 MHz), ahol a **MER** értéke 33.2 dB volt. Az **IKUSI FLASHD C48** antenna szintén jó **MER** értékeket ért el, de az **ISKRA P20** kicsit alulmaradt.
-- **Bitsebesség**: A bitsebesség szintén magasabb volt az **ISKRA P2845** és az **IKUSI FLASHD C48** esetében, míg az **ISKRA P20** antennánál kicsit alacsonyabb értékeket tapasztaltunk. A legmagasabb bitsebességet 570 MHz-en az **ISKRA P2845** érte el (10.0 Mbps).
+- **Jelszint (dBm)**: Az **IKUSI FLASHD C48** és az **ISKRA P20 LOGPER** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 554 MHz frekvencián. Az **Smart HD 550** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
+
 
 ---
 
 ## 6. Konklúzió
-Az elvégzett mérés alapján az **ISKRA P2845** antenna bizonyult a legerősebbnek mind a jelszint, mind a **MER** és bitsebesség tekintetében. Az **IKUSI FLASHD C48** szintén jól teljesített, míg az **ISKRA P20** gyengébb eredményeket mutatott. Az antennák közötti különbségek egyértelműen megmutatkoznak a különböző frekvenciákon, különösen 570 MHz-en, ahol a legnagyobb teljesítménykülönbség volt tapasztalható.
+Az elvégzett mérés alapján az **IKUSI FLASHD C48** antenna bizonyult a legerősebbnek a jelszint tekintetében. Az **ISKRA P20 LOGPER** szintén jól teljesített, míg az **Smart HD 550** gyengébb eredményeket mutatott. Az antennák közötti különbségek egyértelműen megmutatkoznak a különböző frekvenciákon, különösen 554 MHz-en, ahol a legnagyobb teljesítménykülönbség volt tapasztalható.
 
 ---
 
@@ -71,36 +100,29 @@ A mérések során a labor környezetében tapasztalt esetleges zajok és interf
 ---
 
 ## 8. Grafikus ábrázolás
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
-
-![Jelszint és MER ábrázolás](https://erosbence27.github.io/jegyzokonyv/image/asd.PNG) 
 
 ---
 
 ## 9. Javaslatok
-Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Amennyiben költséghatékonyabb megoldás szükséges, az **IKUSI FLASHD C48** is megfelelő választás lehet. Az **Iskra P20** csak alacsonyabb frekvenciákon javasolt, ahol még kielégítő teljesítményt nyújt.
+Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Amennyiben költséghatékonyabb megoldás szükséges, az **ISKRA P20 LOGPER** is megfelelő választás lehet. Az **Smart HD 550** csak alacsonyabb frekvenciákon javasolt, ahol még kielégítő teljesítményt nyújt.
 
 ---
 
-## 10. P-20 Képek:
-<details>
-<summary>Kattins a részletekért</summary>
+## 10. IKUSI FLASHD C48 Képek:
 
-**474Mhz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep474.bmp"/>
+
+**690Mhz Mért Képek:**
+
 
 ---
 
-**570MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep570.bmp"/>
+**554MHz Mért Képek**
+
 
 ---
 
-**706MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit706.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep706.bmp"/>
+**666MHz Mért Képek**
+
 
 ---
 
@@ -108,26 +130,18 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 <br>
 
-## 11. P-2845 Képek:
-<details>
+## 11. ISKRA P20 LOGPER Képek:
 
-<summary>Kattins a részletekért</summary>
 
-**474Mhz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit474.bmp"/>
+**690Mhz Mért Képek:**
 
 ---
 
-**570MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit570.bmp"/>
+**554MHz Mért Képek**
 
 ---
 
-**706MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep706.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit706.bmp"/>
+**666MHz Mért Képek**
 
 ---
 
@@ -135,25 +149,21 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 <br>
 
-## 12. FlashHD C-48 Képek:
+## 12. Smart HD 550 Képek:
 <details>
-<summary>Kattins a részletekért</summary>
 
-**474Mhz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit474.bmp"/>
+
+**690Mhz Mért Képek:**
 
 ---
 
-**570MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit570.bmp"/>
+**554MHz Mért Képek**
+
 
 ---
 
-**706MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep706.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit706.bmp"/>
+**666MHz Mért Képek**
+
 
 ---
 
@@ -162,6 +172,6 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 <br>
 
-**Aláírás:** Erős Bence
+**Aláírás:** Juhász Ádám
 
 **Dátum:** 2024. 10. 14
