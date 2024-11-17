@@ -104,7 +104,7 @@ A jelszint értékek vizuális ábrázolását az alábbi diagramok mutatják be
 <details>
 <summary>Kattins a részletekért</summary>
   
-(https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/Laborgraf.jpg)
+![Jelszint ábrázolás](https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/Labor.png)
 
 </details>
 
