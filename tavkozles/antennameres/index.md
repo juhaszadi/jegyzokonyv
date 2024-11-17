@@ -1,7 +1,7 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Juhász Ádám 
+**A mérést végző neve:** Juhász Ádám   
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
 **A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2024. 11. 13  
