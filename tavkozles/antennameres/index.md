@@ -102,8 +102,9 @@ A mérések során a labor környezetében tapasztalt esetleges zajok és interf
 ## 8. Grafikus ábrázolás (Labor)
 A jelszint értékek vizuális ábrázolását az alábbi diagramok mutatják be:
 
+<img src="https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/Labor.png"/>
 
-![Jelszint ábrázolás](https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/labor.png)
+![Jelszint ábrázolás](https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/Labor.png)
 
 
 ---
