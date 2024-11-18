@@ -104,7 +104,6 @@ A jelszint értékek vizuális ábrázolását az alábbi diagramok mutatják be
 
 <details>
     <summary>Grafikon:</summary>
-    Kép:   
    <img src="https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/grafikon.png"/>
 </details>
 
