@@ -222,4 +222,4 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 **Aláírás:** Juhász Ádám
 
-**Dátum:** 2024. 10. 14
+**Dátum:** 2024. 11. 13
