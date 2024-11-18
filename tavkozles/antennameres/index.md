@@ -121,16 +121,28 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 **690Mhz Mért Képek:**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
 
 ---
 
 **554MHz Mért Képek**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
 
 ---
 
 **666MHz Mért Képek**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
 
 ---
 
@@ -143,13 +155,28 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 **690Mhz Mért Képek:**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
+
 ---
 
 **554MHz Mért Képek**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
+
 ---
 
 **666MHz Mért Képek**
+
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
 
 ---
 
@@ -158,24 +185,37 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 <br>
 
 ## 12. Smart HD 550 Képek:
-<details>
 
 
 **690Mhz Mért Képek:**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
+
 ---
 
 **554MHz Mért Képek**
+
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
 
 
 ---
 
 **666MHz Mért Képek**
 
+<details>
+    <summary>Grafikon:</summary>
+   <img src=""/>
+</details>
+
 
 ---
 
-</details>
 
 
 <br>
