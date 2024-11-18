@@ -102,6 +102,12 @@ A mérések során a labor környezetében tapasztalt esetleges zajok és interf
 ## 8. Grafikus ábrázolás 
 A jelszint értékek vizuális ábrázolását az alábbi diagramok mutatják be:
 
+<details>
+    <summary>Iskra P20 LOGPER:</summary>
+    Kép: 490 MHz  
+   <img src="https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/grafikon.png"/>
+</details>
+
 src=https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/grafikon.png   
 
 
