@@ -36,10 +36,10 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 ---
 
-## 4. Antennák teljesítménye
+## 4. Antennák teljesítménye  
 
 
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) |  Jelszint (dBm)  | Jelszint (dBm)   |
+| **Frekvencia (MHz)** | **Antenna**         | Jelszint (dBm) |  Jelszint (dBm)  | Jelszint (dBm)   |
 |                  |                  |    Labor       |    Udvar         | Utca             |
 | ---------------- | ---------------- | -------------- |  --------------  | --------------   | 
 |                  | IKUSI FLASHD C48 | -67.8          | -70.7            | -72.1            |
