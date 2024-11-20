@@ -119,47 +119,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 ## 10. IKUSI FLASHD C48 Képek:
 
 
-**690Mhz Mért Képek:**
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/ikusi%20690%20labor.bmp"/>
-</details>
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iska%20690%20udvar.bmp"/>
-</details>
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20690%20utca.bmp"/>
-</details>
-
----
-
-**554MHz Mért Képek**
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/ikusi%20554%20labor.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iskua%20554%20udvar.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/ikusi%20554%20utca.bmp"/>
-</details>
-
-
 
 **666MHz Mért Képek**
 
@@ -185,53 +144,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 <br>
 
 ## 11. ISKRA P20 LOGPER Képek:
-
-
-**690Mhz Mért Képek:**
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/ikusi%20690%20labor.bmp"/>
-</details>
-
----
-
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iska%20690%20udvar.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20690%20utca.bmp"/>
-</details>
-
-
-**554MHz Mért Képek**
-
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/iska%20554%20labor.bmp"/>
-</details>
-
----
-
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iskua%20554%20udvar.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20554%20utca.bmp"/>
-</details>
 
 
 **666MHz Mért Képek**
@@ -260,51 +172,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 ## 12. Smart HD 550 Képek:
 
-
-**690Mhz Mért Képek:**
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/smart%20690%20labor.bmp"/>
-</details>
-
----
-
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/smart%20690%20udvar.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/smart%20690%20utca.bmp"/>
-</details>
-
-
-**554MHz Mért Képek**
-
-<details>
-    <summary>Labor:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/smart%20554%20labor.bmp"/>
-</details>
-
----
-
-
-<details>
-    <summary>Udvar:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/smart%20554%20udvar.bmp"/>
-</details>
-
----
-
-<details>
-    <summary>Utca:</summary>
-   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/smart%20554%20utca.bmp"/>
-</details>
 
 
 **666MHz Mért Képek**
