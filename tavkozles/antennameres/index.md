@@ -132,7 +132,7 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 <details>
     <summary>Grafikon:</summary>
-   <img src="https://juhaszadi.github.io/tavkozles/antennameres/labor/ikusi 690 labor.bmp"/>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/iska%20554%20labor.bmp"/>
 </details>
 
 ---
