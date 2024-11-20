@@ -1,2 +1,2 @@
 # Juhasz Adam
-[06 Meres]˙()
+[03 Meres]˙(https:://tavkozles/antennameres/index.md)
