@@ -122,7 +122,7 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 **690Mhz Mért Képek:**
 
 <details>
-    <summary>Grafikon:</summary>
+    <summary>Képek:</summary>
    <img src=""/>
 </details>
 
@@ -132,7 +132,7 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 <details>
     <summary>Grafikon:</summary>
-   <img src=""/>
+   <img src="https://juhaszadi.github.io/tavkozles/antennameres/labor/ikusi 690 labor.bmp"/>
 </details>
 
 ---
