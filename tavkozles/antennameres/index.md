@@ -206,28 +206,54 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 <details>
     <summary>Utca:</summary>
-   <img src=""/>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20690%20utca.bmp"/>
 </details>
 
 
 **554MHz Mért Képek**
 
+
 <details>
-    <summary>Grafikon:</summary>
-   <img src=""/>
+    <summary>Labor:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/iska%20554%20labor.bmp"/>
 </details>
 
 ---
+
+
+<details>
+    <summary>Udvar:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iskua%20554%20udvar.bmp"/>
+</details>
+
+---
+
+<details>
+    <summary>Utca:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20554%20utca.bmp"/>
+</details>
+
 
 **666MHz Mért Képek**
 
 <details>
-    <summary>Grafikon:</summary>
-   <img src=""/>
+    <summary>Labor:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/iska%20666%20labor.bmp"/>
 </details>
 
 ---
 
+
+<details>
+    <summary>Udvar:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/iska%20666%20udvar.bmp"/>
+</details>
+
+---
+
+<details>
+    <summary>Utca:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/iska%20666%20utca.bmp"/>
 </details>
 
 <br>
@@ -238,31 +264,70 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 **690Mhz Mért Képek:**
 
 <details>
-    <summary>Grafikon:</summary>
-   <img src=""/>
+    <summary>Labor:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/smart%20690%20labor.bmp"/>
 </details>
 
 ---
+
+
+<details>
+    <summary>Udvar:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/smart%20690%20udvar.bmp"/>
+</details>
+
+---
+
+<details>
+    <summary>Utca:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/smart%20690%20utca.bmp"/>
+</details>
+
 
 **554MHz Mért Képek**
 
 <details>
-    <summary>Grafikon:</summary>
-   <img src=""/>
+    <summary>Labor:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/smart%20554%20labor.bmp"/>
 </details>
 
+---
+
+
+<details>
+    <summary>Udvar:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/smart%20554%20udvar.bmp"/>
+</details>
 
 ---
+
+<details>
+    <summary>Utca:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/smart%20554%20utca.bmp"/>
+</details>
+
 
 **666MHz Mért Képek**
 
 <details>
-    <summary>Grafikon:</summary>
-   <img src=""/>
+    <summary>Labor:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/labor/ssmart%20666%20labor.bmp"/>
 </details>
 
+---
+
+
+<details>
+    <summary>Udvar:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/udvar/smart%20666%20udvar.bmp"/>
+</details>
 
 ---
+
+<details>
+    <summary>Utca:</summary>
+   <img src="https://raw.githubusercontent.com/juhaszadi/jegyzokonyv/refs/heads/main/tavkozles/antennameres/utca/smart%20666%20utca.bmp"/>
+</details>
 
 
 
