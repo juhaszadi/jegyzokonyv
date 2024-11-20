@@ -1,2 +1,2 @@
-# Juhasz Adam
-[03 Meres]˙(https:://tavkozles/antennameres/index.md)
+# Juhasz Adam   
+[03 Meres](tavkozles/antennameres/index.md)  
