@@ -70,7 +70,7 @@ A jelszint értékek vizuális ábrázolását az alábbi diagramok mutatják be
 
 <details>
     <summary>Grafikon:</summary>
-   <img src="https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/grafikon.png"/>
+   <img src="https://juhaszadi.github.io/jegyzokonyv/tavkozles/antennameres/img/grafikoon.png"/>
 </details>
 
 
