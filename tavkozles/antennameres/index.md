@@ -14,7 +14,7 @@
 ---
 
 ## 1. Mérés célja
-A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**, az **ISKRA P20 LOGPER** és az **Smart HD 550** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián (690 MHz, 554 MHz, és 666 MHz).
+A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**, az **ISKRA P20 LOGPER** és az **Smart HD 550** teljesítményének összehasonlítása, vizsgálata 666 MHz frekvencián.
 
 ---
 
