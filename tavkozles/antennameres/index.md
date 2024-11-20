@@ -50,13 +50,13 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 ## 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
-- **Jelszint (dBm)**: Az **IKUSI FLASHD C48** és az **ISKRA P20 LOGPER** antennák általában jobban teljesítettek a jelszint tekintetében. Az **Smart HD 550** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
+- **Jelszint (dBm)**: Az **IKUSI FLASHD C48** és az **ISKRA P20 LOGPER** antennák általában jobban teljesítettek a jelszint tekintetében. Az **Smart HD 550** antenna alacsonyabb jelszintet produkált.  
 
 
 ---
 
 ## 6. Konklúzió
-Az elvégzett mérés alapján az **IKUSI FLASHD C48** antenna bizonyult a legerősebbnek a jelszint tekintetében. Az **ISKRA P20 LOGPER** szintén jól teljesített, míg az **Smart HD 550** gyengébb eredményeket mutatott. Az antennák közötti különbségek egyértelműen megmutatkoznak a különböző frekvenciákon, különösen 554 MHz-en, ahol a legnagyobb teljesítménykülönbség volt tapasztalható.
+Az elvégzett mérés alapján az **IKUSI FLASHD C48** antenna bizonyult a legerősebbnek a jelszint tekintetében. Az **ISKRA P20 LOGPER** szintén jól teljesített, míg az **Smart HD 550** gyengébb eredményeket mutatott. Az antennák közötti különbségek egyértelműen megmutatkoznak.  
 
 ---
 
