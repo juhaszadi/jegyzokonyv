@@ -8,7 +8,7 @@
 **A mérés tárgya:** Frekvencia vs. moduláció mérés
 
 
-**A mérés száma:** 4. mérés  
+**A mérés száma:** 2. mérés  
 **A mérés dátuma:** 2024. 11. 27  
 **A mérést vezette:** Sándor Péter  
 
