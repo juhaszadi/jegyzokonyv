@@ -25,7 +25,7 @@ A mérés célja a **Johansson 8202 DVB-T modulátor** működésének megismer�
 
 ---
 
-## 2. Használt Eszközök
+## 2. Használt Eszközök     
 
 | Eszköz                     | Típus                       | Funkció                                           |
 |----------------------------|-----------------------------|---------------------------------------------------|
