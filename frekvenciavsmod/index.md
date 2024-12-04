@@ -78,7 +78,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ## 8. Diagramm
 mérési diagram 
-<img src="https://github.com/user-attachments/assets/273fd5e1-7825-488c-9aeb-4f2d756d3d7e"/>
+<img src="https://github.com/user-attachments/assets/0381b8ba-a985-411c-bfdf-81c6effde3f4"/>
 
 
 ---
@@ -95,31 +95,31 @@ mérési diagram
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/51f72b17-a5ec-49cc-a80b-c8b0cdf96a61"/>
+<img src="https://github.com/user-attachments/assets/bbc2d9fe-5e3d-439c-930f-7e5391c9e95c"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/52f96f4b-f96c-40f8-9935-25e565455934"/>
+<img src="https://github.com/user-attachments/assets/b108601e-345d-48ad-8ef6-41765a28bc73"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/05516812-0421-4d1c-814e-06d08416e90c"/>
+<img src="https://github.com/user-attachments/assets/3fd0df88-25ff-497c-ab59-e47db73775d8"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/00ec0d27-c911-4389-9bc9-bf826b170bbd"/>
+<img src="https://github.com/user-attachments/assets/3193ca69-d44e-4905-b146-403ffeff5c5f"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ed92dc9a-a7da-4c8d-9a95-79f5ad706cf6"/>
+<img src="https://github.com/user-attachments/assets/39b9743e-35be-49d4-a434-3d59fa796101"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/27e537f4-0962-4efc-8c76-b9389efa1510"/>
+<img src="https://github.com/user-attachments/assets/36cd84c0-3e33-4319-a5ca-fcfc28cd7c08"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/dd5c841d-5108-46ee-b11c-eb30b44fe819"/>
+<img src="https://github.com/user-attachments/assets/7d0c1688-b6e6-4685-a18e-8c8cb6aaa91a"/>
 
 <br>
 
