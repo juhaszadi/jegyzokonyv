@@ -38,7 +38,7 @@ A mérés során a két Johansson 8202 DVB-T modulátort összekötöttük, majd
 
 ---
 
-### 4. Mért Adatok - TV2 Erős és TV1 Pongo
+### 4. Mért Adatok - TV2 és TV1  
 A következő paramétereket olvastuk le a spektrumanalizátorról és a modulátor kijelzőjéről:
 
 | Paraméter       | TV2 10Mb/s       | TV2 21.5Mb/s        | TV1 15Mb/s      |
