@@ -43,11 +43,9 @@ A következő paramétereket olvastuk le a spektrumanalizátorról és a modulá
 
 | Paraméter       | TV2 10Mb/s       | TV2 21.5Mb/s        | TV1 15Mb/s      |
 |-----------------|----------------|-----------------------|-----------------|
-| MER             |  dB        |  dB              |  dB         |
-| Packet Errors   | 0              | 0                    | 0               |
-| Noise Margin    |            |                  |             |
-| Power           |  dBm      |  dBm            |  dBm       |
-| Bitsebesség     |  Mb/s |  Mb/s     |  Mb/s  |
+| MER             | 34.5 dB        |  35.3 dB              |  33.9 dB        |
+| Power           |  -34.4 dBm      | -34.7 dBm            | -29.5 dBm       |
+
 
 ---
 
@@ -61,7 +59,7 @@ A következő paramétereket olvastuk le a spektrumanalizátorról és a modulá
 ### 6. Következtetés
  - A mérések során megismertük a **Johansson 8202 DVB-T modulátor** alapvető képességeit, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.
 
- - Azonnal láthatóvá válik, hogy a TV1 Pongo magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 Erős jobb MER értékkel bír.
+ - Azonnal láthatóvá válik, hogy a TV1 magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 jobb MER értékkel bír.
 
 - A mérések alapján megfigyelhető, hogy a bitsebesség növekedésével a jelminőség fokozatosan csökkent. A legmagasabb jelminőséget alacsony bitsebességnél értük el, ahol a zaj mértéke még elfogadható szinten maradt. Az eredmények alapján javasolható, hogy nagyobb stabilitás érdekében a rendszer optimális működése alacsonyabb bitsebességeken biztosított.
 
@@ -102,34 +100,34 @@ További mérésekkel, például különböző antennák tesztelésével, zajfor
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/674_spek.bmp"/>
+<img src="https://github.com/user-attachments/assets/5fb46735-0936-4dde-a726-407256a01de5"/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/674_meter.bmp"/>
+<img src="https://github.com/user-attachments/assets/d600fcab-9ab7-4879-86ea-7eab92eb6014"/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/674_bit.bmp"/>
+<img src="https://github.com/user-attachments/assets/6284dc09-31c2-4f75-91cc-7e020d85ede7"/>
 
 <br>
-<img src="https://erosbence27.github.io/jegyzokonyv/image/682_spek_10mb.bmp"/>
-
-<br>
-
-<img src="https://erosbence27.github.io/jegyzokonyv/image/682_meter_10mb.bmp"/>
+<img src="https://github.com/user-attachments/assets/6ed52c68-57d7-40ce-88bd-0538252221fa"/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/682_bit_10mb.bmp"/>
+<img src="https://github.com/user-attachments/assets/d8822922-4969-4a5f-9a60-74896193938f"/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/682_meter_21.5mb.bmp"/>
+<img src="https://github.com/user-attachments/assets/732249fc-ab65-4319-8f6c-339539f9cc63"/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/682_bit_21.5mb.bmp"/>
+<img src="https://github.com/user-attachments/assets/382f3e92-419b-4fd3-8b2b-4e49e09d448f"/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/0abb6bd6-c908-4e27-b0a0-f21729de736b"/>
 
 <br>
 
