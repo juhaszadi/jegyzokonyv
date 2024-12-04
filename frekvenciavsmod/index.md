@@ -1,14 +1,10 @@
-# Miskolci Szakképzési Centrum  
-**Kandó Kálmán Informatikai Technikum**  
-**Miskolc Palóczy u. 3.**
-
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Juhász Ádám  
 **A mérés tárgya:** Frekvencia vs. moduláció mérés
 
 
-**A mérés száma:** 2. mérés  
+**A mérés száma:** 4. mérés  
 **A mérés dátuma:** 2024. 11. 27  
 **A mérést vezette:** Sándor Péter  
 
@@ -25,7 +21,7 @@ A mérés célja a **Johansson 8202 DVB-T modulátor** működésének megismer�
 
 ---
 
-## 2. Használt Eszközök     
+## 2. Használt Eszközök
 
 | Eszköz                     | Típus                       | Funkció                                           |
 |----------------------------|-----------------------------|---------------------------------------------------|
@@ -36,7 +32,7 @@ A mérés célja a **Johansson 8202 DVB-T modulátor** működésének megismer�
 ---
 
 ## 3. Beállítások
-- **Frekvencia**: 490 MHz  
+- **Frekvencia**: 594 MHz  
 - **Sávszélesség**: 8 MHz  
 - **Modulációs típusok tesztelése**:  
   - QPSK  
@@ -51,7 +47,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 | **Moduláció** | **Jelszint [dBm]** | **Bitsebesség [Mbps]** | **MER [dB]** |
 |---------------|---------------------|------------------------|--------------|
 | QPSK          | -12.5 dBm          | 3.3 - 4.9 Mbps        | 39.9 dB      |
-| 16QAM         | -12.4 dBm          | 6.24 - 9.6 Mbps       | 35.9 dB      |
+| 16QAM         | -12.4 dBm          | 6.2 - 9.6 Mbps       | 35.8 dB      |
 | 64QAM         | -14.2 dBm          | 13.7 - 14.6 Mbps      | 40.0 dB      |
 
 ---
@@ -79,164 +75,55 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-## 8. További Mérési Javaslatok
 
-<details>   
-
-<summary>Kattins a részletekért</summary>   
-
-<h1>Mérési Javaslatok</h1>
-
-    <h2>1. Szélsőséges Jelszint Tesztelése</h2>
-    <ul>
-        <li><strong>Cél:</strong> Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).</li>
-                <li>Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.</li>
-    </ul>
-
-    <hr>
-
-    <h2>2. Szűkebb és Szélesebb Sávszélesség Hatásai</h2>
-    <ul>
-        <li><strong>Cél:</strong> Megvizsgálni a sávszélesség változtatásának hatását a jel minőségére és teljesítményére.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Állítsuk be a sávszélességet különböző értékekre (pl. 6 MHz, 7 MHz, 8 MHz).</li>
-                <li>Rögzítsük a jelszintet, MER-t és a bitsebességet.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Szélesebb sávszélességnél nagyobb bitsebesség, de csökkenhet a MER.</li>
-    </ul>
-
-    <hr>
-
-    <h2>3. Zavarforrások Hatása</h2>
-    <ul>
-        <li><strong>Cél:</strong> Meghatározni, hogy a közeli rádiófrekvenciás zavarok hogyan befolyásolják a jelek minőségét.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Helyezzünk egy zavarforrást (pl. másik RF jeladó) a vizsgált frekvencia közelébe.</li>
-                <li>Mérjük meg a jelszintet, MER-t és a bitsebességet különböző távolságokból.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Zavarforrás jelenléte csökkentheti a MER-t és növelheti a hibaarányt.</li>
-    </ul>
-
-    <hr>
-
-    <h2>4. Moduláció Stabilitásának Vizsgálata Időfüggvényében</h2>
-    <ul>
-        <li><strong>Cél:</strong> Tesztelni, hogy hosszabb időtartam alatt mennyire stabil a jel különböző modulációs típusok esetén.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Állítsuk be az eszközt egy modulációs típusra (pl. 64QAM).</li>
-                <li>Mérjünk jelszintet, MER-t és bitsebességet óránként legalább 12 órán keresztül.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Stabil rendszer esetén a paramétereknek változatlannak kell maradniuk.</li>
-    </ul>
-
-    <hr>
-
-    <h2>5. Szomszédos Csatornák Vizsgálata</h2>
-    <ul>
-        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a szomszédos csatornák jelenléte a méréseket.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Aktiváljunk egy szomszédos csatornán (pl. 482 MHz vagy 498 MHz) másik DVB-T jelet.</li>
-                <li>Mérjük meg a főcsatorna (594 MHz) paramétereit.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Növekvő interferencia esetén csökkenhet a MER és romolhat a jel minősége.</li>
-    </ul>
-
-    <hr>
-
-    <h2>6. Jelkésleltetés Vizsgálata</h2>
-    <ul>
-        <li><strong>Cél:</strong> Ellenőrizni a rendszer válaszidejét különböző beállítások mellett.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Állítsunk be eltérő modulációkat és sávszélességeket.</li>
-                <li>Mérjük meg a jelkésleltetést (pl. speciális analizátorral vagy műszerekkel).</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> A sávszélesség és moduláció változtatása hatással lehet a késleltetésre.</li>
-    </ul>
-
-    <hr>
-
-    <h2>7. Hőmérséklet Hatásának Vizsgálata</h2>
-    <ul>
-        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a környezeti hőmérséklet a rendszer teljesítményét.</li>
-        <li><strong>Lépések:</strong>
-            <ol>
-                <li>Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).</li>
-                <li>Rögzítse a jelszint, MER és bitsebesség értékeket.</li>
-            </ol>
-        </li>
-        <li><strong>Elvárt eredmények:</strong> Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.</li>
-    </ul>  
-
-</details>
-
-<br>
-
----
-
-## 9. Diagramm
-- Mérési jegyzőkönyv grafikon: 
-![diagram]()
+## 8. Diagramm
+mérési diagram 
+<img src="https://github.com/user-attachments/assets/273fd5e1-7825-488c-9aeb-4f2d756d3d7e"/>
 
 
 ---
 
-## 10. Záró Összegzés
+## 9. Záró Összegzés
 
 
 ---
 
-## 11. Mért Képek
+## 10. Mért Képek
 
 <details>
 <summary>Kattins a részletekért</summary>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/51f72b17-a5ec-49cc-a80b-c8b0cdf96a61"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/52f96f4b-f96c-40f8-9935-25e565455934"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/05516812-0421-4d1c-814e-06d08416e90c"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/00ec0d27-c911-4389-9bc9-bf826b170bbd"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/ed92dc9a-a7da-4c8d-9a95-79f5ad706cf6"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/27e537f4-0962-4efc-8c76-b9389efa1510"/>
 
 <br>
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/dd5c841d-5108-46ee-b11c-eb30b44fe819"/>
 
 <br>
 
-<img src=""/>
+
 
 <br>
 
