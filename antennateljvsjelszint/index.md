@@ -39,15 +39,15 @@ A mérés célja három különböző típusú antenna, az **Iskra P20**, az **I
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **474 MHz**      | Iskra P20        | -61.8          | 24.6     | 8.2 – 8.6          |
-|                  | ISKRA P2845      | -58.8          | 26.3     | 8.6 – 9.6          |
-|                  | IKUSI FLASHD C48 | -58.5          | 27.0     | 8.4 – 9.2          |
-| **570 MHz**      | Iskra P20        | -59.0          | 26.6     | 8.2 – 9.2          |
-|                  | ISKRA P2845      | -52.8          | 33.2     | 8.2 – 10.0         |
-|                  | IKUSI FLASHD C48 | -52.6          | 30.0     | 7.8 – 9.2          |
-| **706 MHz**      | Iskra P20        | -64.8          | 19.5     | 7.9 – 8.8          |
-|                  | ISKRA P2845      | -57.4          | 26.4     | 8.0 – 8.9          |
-|                  | IKUSI FLASHD C48 | -58.2          | 24.1     | 9.2 – 10.0         |
+| **474 MHz**      | Iskra P20        |           |      |           |
+|                  | ISKRA P2845      |           |      |           |
+|                  | IKUSI FLASHD C48 |           |      |           |
+| **570 MHz**      | Iskra P20        |           |      |           |
+|                  | ISKRA P2845      |           |      |          |
+|                  | IKUSI FLASHD C48 |           |      |           |
+| **706 MHz**      | Iskra P20        |           |      |           |
+|                  | ISKRA P2845      |           |      |           |
+|                  | IKUSI FLASHD C48 |           |      |          |
 
 ---
 
@@ -76,14 +76,14 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 ## 8. P-20 Képek:
 <details>
-    <summary>Kattins a részletekért</summary>
+    <summary>Kattins a részletekért</summary>    
 
-    **474Mhz Mért Képek:**
+    **474Mhz Mért Képek:**      
 
 
 ---
 
-    **570MHz Mért Képek**
+    **570MHz Mért Képek**   
 
 
 ---
@@ -100,9 +100,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ## 9. P-2845 Képek:
 <details>
 
-    <summary>Kattins a részletekért</summary>
+    <summary>Kattins a részletekért</summary>    
 
-    **474Mhz Mért Képek:**
+    **474Mhz Mért Képek:**      
 
 
 ---
@@ -123,9 +123,9 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 ## 10. FlashHD C-48 Képek:
 <details>
-    <summary>Kattins a részletekért</summary>
+    <summary>Kattins a részletekért</summary>         
 
-    **474Mhz Mért Képek:**
+    **474Mhz Mért Képek:**    
 
 
 ---
@@ -149,4 +149,4 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 **Aláírás:**  
 Sándor Péter  
-**Dátum:** 2024. 10. 14
+**Dátum:** 2024. 12. 11.  
