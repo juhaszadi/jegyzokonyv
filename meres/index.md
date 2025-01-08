@@ -13,7 +13,7 @@
 ---
 
 ## 1. Mérés célja   
-
+Tranzisztor működésének vizsgálata. Áramkör építése és mérése szimulációban és valós eszközön.
 
 -----
 
@@ -46,4 +46,38 @@ Falstadban készített kapcsolási rajz:
 <details>
     <summary>Adatok:</summary>
    <img src="https://github.com/user-attachments/assets/34b5bde4-6de5-4c4c-99f5-9c2533f7357d"/>
+</details>
+
+<details>
+    <summary>Grafikon:</summary>
+   <img src="https://github.com/user-attachments/assets/a2013eca-7101-4c89-9b28-64b1448cfdb1"/>
+</details>
+
+
+
+## 5. Mérési adatok (szimuláció)
+
+<details>
+    <summary>Adatok:</summary>
+   <img src="https://github.com/user-attachments/assets/90938535-088a-4901-a237-9aa3ae525fe5"/>
+</details>
+
+<details>
+    <summary>Grafikon:</summary>
+   <img src="https://github.com/user-attachments/assets/6b93d9c3-20a0-4003-86d5-2c8c4434a6e0"/>
+</details>
+
+-----
+
+## Képek
+
+
+<details>
+    <summary>Kép:</summary>
+   <img src="https://github.com/user-attachments/assets/f488b10f-7ecf-4a03-94fb-4f23bb16d26d"/>
+</details>
+
+<details>
+    <summary>Kép:</summary>
+   <img src="https://github.com/user-attachments/assets/1e1dde70-a3e1-475a-9f50-7a300ae077a9"/>
 </details>
