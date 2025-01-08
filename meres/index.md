@@ -24,7 +24,6 @@
 | ----------------------------------- | ----------- | ------------- |
 | NI myDAQ                            |             |   305E10B     |
 |        Breadboard                             |             |               |
-|                              |        |     |
 
 
 
@@ -46,5 +45,5 @@ Falstadban készített kapcsolási rajz:
 
 <details>
     <summary>Adatok:</summary>
-   <img src="https://github.com/user-attachments/assets/fbc5070a-b0b5-4e25-9da4-bc65c7d52795"/>
+   <img src="https://github.com/user-attachments/assets/34b5bde4-6de5-4c4c-99f5-9c2533f7357d"/>
 </details>
