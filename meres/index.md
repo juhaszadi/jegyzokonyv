@@ -29,3 +29,5 @@
 
 
 -------
+
+## 3. Kapcsolási rajz
