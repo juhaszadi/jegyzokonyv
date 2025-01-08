@@ -36,7 +36,7 @@ Falstadban készített kapcsolási rajz:
 
 <details>
     <summary>Rajz:</summary>
-   <img src="https://github.com/user-attachments/assets/81010563-160a-4c43-861f-df346ec138d0"/>
+   <img src="https://github.com/user-attachments/assets/162df538-9fa1-4772-a9ee-701968ff7ab9"/>
 </details>
 
 
@@ -45,6 +45,6 @@ Falstadban készített kapcsolási rajz:
 ## 4. Mérési adatok 
 
 <details>
-    <summary>Rajz:</summary>
+    <summary>Adatok:</summary>
    <img src="https://github.com/user-attachments/assets/fbc5070a-b0b5-4e25-9da4-bc65c7d52795"/>
 </details>
