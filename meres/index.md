@@ -12,6 +12,10 @@
 
 ---
 
+## 1. Mérés célja   
+
+
+-----
 
 
 ## 2. Alkalmazott mérőeszközök és készülékek
