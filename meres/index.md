@@ -40,3 +40,11 @@ Falstadban készített kapcsolási rajz:
 </details>
 
 
+-----
+
+## 4. Mérési adatok 
+
+<details>
+    <summary>Rajz:</summary>
+   <img src="https://github.com/user-attachments/assets/fbc5070a-b0b5-4e25-9da4-bc65c7d52795"/>
+</details>
