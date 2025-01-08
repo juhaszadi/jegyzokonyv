@@ -30,4 +30,13 @@
 
 -------
 
-## 3. Kapcsolási rajz
+## 3. Kapcsolási rajz  
+
+Falstadban készített kapcsolási rajz:
+
+<details>
+    <summary>Rajz:</summary>
+   <img src="![kapcsrajz]https://github.com/user-attachments/assets/76241c01-c66e-4255-8102-6f332e7727b4"/>
+</details>
+
+
