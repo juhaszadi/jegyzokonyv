@@ -20,12 +20,12 @@
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
-| Műszer neve                         | Típus       | Gyártási szám |
+| Műszer/Eszköz neve                         | Típus       | Gyártási szám |
 | ----------------------------------- | ----------- | ------------- |
-|   |    |           |
+| NI myDAQ                            |             |   305E10B     |
+|        Breadboard                             |             |               |
 |                              |        |     |
-|                              |        |     |
-|                  |        |            |
+
 
 
 -------
