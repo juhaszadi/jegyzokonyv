@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Juhász Ádám   
-**A mérés tárgya:**   Tranzisztor működésének vizsgálata
+**A mérés tárgya:**   Tranzisztor működésének vizsgálata    
 **A mérés száma:** 6. mérés  
 **A mérés dátuma:** 2025. 01. 08.    
 **A mérést vezette:** Sándor Péter  
