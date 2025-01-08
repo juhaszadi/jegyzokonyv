@@ -36,7 +36,7 @@ Falstadban készített kapcsolási rajz:
 
 <details>
     <summary>Rajz:</summary>
-   <img src="https://github.com/user-attachments/assets/76241c01-c66e-4255-8102-6f332e7727b4"/>
+   <img src="https://github.com/user-attachments/assets/81010563-160a-4c43-861f-df346ec138d0"/>
 </details>
 
 
