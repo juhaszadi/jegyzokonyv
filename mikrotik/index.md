@@ -94,6 +94,37 @@ Az egyik laptopról (szerverként futtatjuk) ping a másikra (kliensként futtat
    <img src="https://github.com/user-attachments/assets/58af5248-1dc3-4e49-a04d-d8b83e73a272">
 </details>
 
+----------
+
+Mikrotik LHG18 LTE antenna beállításai és értékei:
+
+|     Mikrotik LHG18 LTE antenna                    | Értékek    | 
+| ------------------------------------------------- | -----------| 
+| RSSI                                              | -48 dBm    |
+|   RSRP                                            | -82 dBm    | 
+|     SINR                                          | 18 dBm     | 
+|     RSRQ                                          | -13.0 dBm  | 
+
+A szolgáltatótól (Telekom HU) kapott IP cím: 100.82.157.99
+
+
+<details>
+    <summary>Mikrotik LHG18 LTE:</summary>
+   <img src="https://github.com/user-attachments/assets/2515e86b-b92c-4e5f-9608-6fe8aa789454">
+</details>
+
+-----------------
+
+Mikrotik nRay 60GHz mikrohullámú antenna (192.168.88.2). Beállításai és jelerőssége
+
+<details>
+    <summary>Mikrotik nRay 60GHz mikrohullámú antenna:</summary>
+   <img src="https://github.com/user-attachments/assets/0725b116-704d-4876-b123-5db46e4cc935">
+</details>
+
+
+
+
 <details>
     <summary>Speedtest:</summary>
    <img src="">
