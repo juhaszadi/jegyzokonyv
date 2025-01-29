@@ -62,26 +62,80 @@ Mikrotik LHG18 LTE antenna (192.168.188.1)
 
 Mikrotik nRay 60GHz mikrohullámú antenna szett (192.168.88.2 és 192.168.88.3)  
 
+ASUS SOHO router (192.168.88.4)
+
 
 <details>
     <summary>Tesztelés:</summary>
-   <img src="https://github.com/user-attachments/assets/1c4b4d46-b20e-43a2-b881-2419d9610c9d">
-</details>
+  C:\Users\Admin>ping 192.168.88.1
+
+Pinging 192.168.88.1 with 32 bytes of data:
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.1:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+Control-C
+^C
+C:\Users\Admin>ping 192.168.88.2
+
+Pinging 192.168.88.2 with 32 bytes of data:
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.2:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+Control-C
+^C
+C:\Users\Admin>ping 192.168.88.3
+
+Pinging 192.168.88.3 with 32 bytes of data:
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+
+Ping statistics for 192.168.88.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
+
+C:\Users\Admin>
+
+C:\Users\Admin>ping 192.168.88.4
+
+Pinging 192.168.88.4 with 32 bytes of data:
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+   </details>
 
 A pingek sikeresek voltak, nem történt adat vesztés.
 
 ----------
 
-#### Tesztelés hogy elérünk-e egy külső servevrt pl.:GOOGLE (8.8.8.8)  
+#### Tesztelés hogy elérünk-e egy külső servevrt pl.: GOOGLE (8.8.8.8)  
 
 
 <details>
     <summary>Tesztelés:</summary>
-   <img src="https://github.com/user-attachments/assets/c60249b3-8616-4243-9269-84d409408900">
+   <img src="https://github.com/user-attachments/assets/46497593-8c92-4cb5-a0e1-ea7e556ada1d">
 </details>
 
 
-A pingek sikeresek voltak, nem történt adat vesztés. Az átlag ping értéke: 28ms
+A pingek sikeresek voltak, nem történt adat vesztés. Az átlag ping értéke: 40ms
 
 
 
@@ -105,22 +159,30 @@ Mikrotik LHG18 LTE antenna beállításai és értékei:
 |     SINR                                          | 18 dBm     | 
 |     RSRQ                                          | -13.0 dBm  | 
 
-A szolgáltatótól (Telekom HU) kapott IP cím: 100.82.157.99
+A szolgáltatótól (Telekom HU) kapott IP cím: 100.88.187.247
 
 
 <details>
     <summary>Mikrotik LHG18 LTE:</summary>
-   <img src="https://github.com/user-attachments/assets/2515e86b-b92c-4e5f-9608-6fe8aa789454">
+   <img src="https://github.com/user-attachments/assets/063adaf7-c9cd-41e0-95ce-bfe988720bfd">
 </details>
 
 -----------------
 
-Mikrotik nRay 60GHz mikrohullámú antenna (192.168.88.2). Beállításai és jelerőssége
+Mikrotik nRay 60GHz mikrohullámú antenna (192.168.88.3). Beállításai és jelerőssége
 
 <details>
     <summary>Mikrotik nRay 60GHz mikrohullámú antenna:</summary>
-   <img src="https://github.com/user-attachments/assets/0725b116-704d-4876-b123-5db46e4cc935">
+   <img src="https://github.com/user-attachments/assets/6445fb05-179d-4b00-a68a-d2d6f7355ca7">
 </details>
+
+-------------
+
+<details>
+    <summary>Két antenna közötti átvivetli sebesség:</summary>
+   <img src="https://github.com/user-attachments/assets/56232b9a-ac90-4b77-8ed1-95489e18248d">
+</details>
+
 
 
 
