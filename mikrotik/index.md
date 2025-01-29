@@ -21,9 +21,9 @@
 | D-LINK vagy TP-LINK vagy ASUS SOHO router         | AP módban  | 
 
 
-# HP switch (opcionálisan felhasználható)  
-# Laptop vagy PC a konfigurációkhoz és mérésekhez  
-# Iperf szoftver a sávszélesség mérésekhez   
+### HP switch (opcionálisan felhasználható)  
+### Laptop vagy PC a konfigurációkhoz és mérésekhez  
+### Iperf szoftver a sávszélesség mérésekhez   
 
 Laptop bejelentkezési adatok:
 
@@ -58,18 +58,8 @@ IP-cím kiosztás:
 ## 4. Hálózati tesztelés és hibakeresés
      cmd vagy Terminal  
 
-## 4.1 Sávszélesség mérése (iperf használata)
+## 4.1 Sávszélesség mérése  
 
-
-
-|                |           | 
-| ---------------------------| 
-| RSSI           |  -51 dBm  |
-| RSRP           | -85 dBm   | 
-| SNR            | 20dBm     | 
-| RSRQ           | -13dBm    |
-
-Szolgáltatótól kapott IP cím: 100.82.157.99
 
 
 
