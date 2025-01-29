@@ -3,4 +3,4 @@
 [04 Meres](frekvenciavsmod/index.md)  
 [05 Meres](bitseb/index.md)  
 [06 Meres](meres/index.md)  
-[Mikrotik]
+[Mikrotik](mikrotik/index.md)
