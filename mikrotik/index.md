@@ -189,7 +189,7 @@ Mikrotik nRay 60GHz mikrohullámú antenna (192.168.88.3). Beállításai és je
 
 <details>
     <summary>Speedtest:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/046b4f4c-c502-4b3b-87e9-ca410f88544b">
 </details>
 
 
