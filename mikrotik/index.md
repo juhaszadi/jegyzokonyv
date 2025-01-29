@@ -27,8 +27,8 @@
 
 Laptop bejelentkezési adatok:
 
-    Felhasználónév: V3-XX\admin (XX - az aktuális laptop száma)   
-    Jelszó: mzKvsd  
+Felhasználónév: V3-XX\admin (XX - az aktuális laptop száma)    
+Jelszó: mzKvsd   
 
 
 
