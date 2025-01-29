@@ -24,13 +24,8 @@
 ### HP switch (opcionálisan felhasználható)  
 ### Laptop vagy PC a konfigurációkhoz és mérésekhez  
 ### Iperf szoftver a sávszélesség mérésekhez   
-
-Laptop bejelentkezési adatok:
-
-Felhasználónév: V3-XX\admin (XX - az aktuális laptop száma)    
-Jelszó: mzKvsd   
-
-
+  
+---------------------------------------------------------------------
 
 ## 2. Előkészítés és tervezés
 
@@ -38,7 +33,7 @@ Jelszó: mzKvsd
    Minden eszköz gyári alaphelyzetbe állítottam  
 
 
-## 3. Hálózati topológia
+## 2.1 Hálózati topológia
 
 IP-cím kiosztás:
 
@@ -55,11 +50,54 @@ IP-cím kiosztás:
    <img src="https://github.com/user-attachments/assets/0c9e5ee7-3f29-4432-a5e5-a049cf54e7ac">
 </details>
 
-## 4. Hálózati tesztelés és hibakeresés
 
-cmd vagy Terminal  
+-----------------------
 
-## 4.1 Sávszélesség mérése  
+
+## 3. Hálózati tesztelés és hibakeresés  
+
+#### Pingek a hálózaton lévő eszközökről  
+
+Mikrotik LHG18 LTE antenna (192.168.188.1)  
+
+Mikrotik nRay 60GHz mikrohullámú antenna szett (192.168.88.2 és 192.168.88.3)  
+
+
+<details>
+    <summary>Tesztelés:</summary>
+   <img src="https://github.com/user-attachments/assets/1c4b4d46-b20e-43a2-b881-2419d9610c9d">
+</details>
+
+A pingek sikeresek voltak, nem történt adat vesztés.
+
+----------
+
+#### Tesztelés hogy elérünk-e egy külső servevrt pl.:GOOGLE (8.8.8.8)  
+
+
+<details>
+    <summary>Tesztelés:</summary>
+   <img src="https://github.com/user-attachments/assets/c60249b3-8616-4243-9269-84d409408900">
+</details>
+
+
+A pingek sikeresek voltak, nem történt adat vesztés. Az átlag ping értéke: 28ms
+
+
+
+## 3.1 Sávszélesség mérése  
+
+Az egyik laptopról (szerverként futtatjuk) ping a másikra (kliensként futtatjuk) 
+
+<details>
+    <summary>iperf:</summary>
+   <img src="https://github.com/user-attachments/assets/58af5248-1dc3-4e49-a04d-d8b83e73a272">
+</details>
+
+<details>
+    <summary>Speedtest:</summary>
+   <img src="">
+</details>
 
 
 
