@@ -56,7 +56,8 @@ IP-cím kiosztás:
 </details>
 
 ## 4. Hálózati tesztelés és hibakeresés
-     cmd vagy Terminal  
+
+cmd vagy Terminal  
 
 ## 4.1 Sávszélesség mérése  
 
