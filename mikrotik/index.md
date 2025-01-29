@@ -3,7 +3,7 @@
 **A mérést végző neve:** Juhász Ádám   
 **A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése   
 **A mérés száma:** 1. mérés  
-**A mérés dátuma:** 2025. 01. 28.    
+**A mérés dátuma:** 2025. 01. 29.    
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
@@ -191,6 +191,19 @@ Mikrotik nRay 60GHz mikrohullámú antenna (192.168.88.3). Beállításai és je
     <summary>Speedtest:</summary>
    <img src="https://github.com/user-attachments/assets/046b4f4c-c502-4b3b-87e9-ca410f88544b">
 </details>
+
+-------------------
+## Összegzés
+
+A mérés célja egy összetett távközlési hálózat tervezése, telepítése és mérése volt.  
+A hálózati topológia egy LTE kapcsolaton alapuló internetkapcsolatot, egy 60GHz-es mikrohullámú összeköttetést és egy vezeték nélküli hozzáférési pontot (AP) tartalmazott, amelyhez a kliensek csatlakoztak. A jegyzőkönyv ezen része a hálózati eszközök közötti kapcsolatok tesztelését és az esetleges hibák elhárítását tartalmazza, például ping teszteket az eszközök között.  
+
+A jegyzőkönyv részletesen bemutatja a mérés során alkalmazott eszközöket, a hálózati topológiát és az IP-címek kiosztását, valamint a hálózati tesztelés és hibakeresés lépéseit.  
+
+A hálózat hiba mentesen működött, adat vesztés nem történt. Össze építése és felconfigurálása nagyjából 2 órát vett igénybe.  
+
+Készítette: Juhász Ádám  
+Dátum: 2025.01.29.  
 
 
 
