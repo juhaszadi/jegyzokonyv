@@ -145,7 +145,7 @@ Az egyik laptopról (szerverként futtatjuk) ping a másikra (kliensként futtat
 
 <details>
     <summary>iperf:</summary>
-   <img src="https://github.com/user-attachments/assets/58af5248-1dc3-4e49-a04d-d8b83e73a272">
+   <img src="https://github.com/user-attachments/assets/45fd843f-31b3-48be-b69c-4a27bd5c0641">
 </details>
 
 ----------
