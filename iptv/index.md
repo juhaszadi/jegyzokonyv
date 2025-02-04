@@ -130,7 +130,7 @@ Bandwidth: 8MHz
 
 
 <details>
-    <summary>Input 8: multiplex E:</summary>
+    <summary>Input 3: multiplex E:</summary>
    <img src="https://github.com/user-attachments/assets/dd8753cb-5a10-4186-82d1-e663f2126eba">
 </details>
 
@@ -142,7 +142,7 @@ Bandwidth: 8MHz
 
 
 <details>
-    <summary>Input 7: Miskolc TV:</summary>
+    <summary>Input 4: Miskolc TV:</summary>
    <img src="https://github.com/user-attachments/assets/9058970b-3107-420d-bbe4-a39de381f291">
 </details>
 
@@ -162,7 +162,7 @@ A stream UDP (User Datagram Protocol)-n keresztül jön.
 ## 4. Hálózati tesztelés  
 
 
-##### Lemco SCL-824CT Programok
+##### Lemco SCL-824CT Programok (csatornák kiosztása)  
 
 | #  | Input  | Program címe          | OriginalService ID | LCN  | Encrypted | TS Output | OutputService ID | IP cím      | IP port | Protokoll |
 |----|--------|----------------------|-------------------|------|-----------|-----------|----------------|------------|--------|-----------|
