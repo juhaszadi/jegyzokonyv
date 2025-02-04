@@ -109,9 +109,9 @@ Az adótorony adatbázisa elérhető itt: fmdx.hu
    <img src="https://github.com/user-attachments/assets/91f6d06d-1985-4a3a-8479-ecfeffea774c">
 </details>
 
-Frekvencia: 666 MHz
-Channe: 45
-Bandwidth: 8MHz
+Frekvencia: 666 MHz   
+Channe: 45    
+Bandwidth: 8MHz  
 
 ----------------------------------------------
 
@@ -122,9 +122,9 @@ Bandwidth: 8MHz
    <img src="https://github.com/user-attachments/assets/34e89440-b2ae-4fbe-8f11-17a43704c33e">
 </details>
 
-Frekvencia: 586 MHz
-Channe: 35
-Bandwidth: 8MHz
+Frekvencia: 586 MHz     
+Channe: 35    
+Bandwidth: 8MHz     
 
 -----------------------------------------------------
 
@@ -134,9 +134,9 @@ Bandwidth: 8MHz
    <img src="https://github.com/user-attachments/assets/dd8753cb-5a10-4186-82d1-e663f2126eba">
 </details>
 
-Frekvencia: 690 MHz
-Channe: 48
-Bandwidth: 8MHz
+Frekvencia: 690 MHz   
+Channe: 48   
+Bandwidth: 8MHz    
 
 -------------------------------------------------------
 
@@ -146,9 +146,9 @@ Bandwidth: 8MHz
    <img src="https://github.com/user-attachments/assets/9058970b-3107-420d-bbe4-a39de381f291">
 </details>
 
-Frekvencia: 634 MHz
-Channe: 41
-Bandwidth: 8MHz
+Frekvencia: 634 MHz     
+Channe: 41     
+Bandwidth: 8MHz    
 
 
 --------------------------------------------------------------
