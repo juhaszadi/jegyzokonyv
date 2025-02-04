@@ -61,7 +61,7 @@ A fogható multiplexek jelerősségének ellenőrzése, és a DVB-T jel LEMCO SC
 ## 3.1 Előkészítés   
 
 1.Internetes adatbázison elérhető multiplex a Miskolc, Avasi adótoronyból.  
-(Frekvencia, teljesítmény, polarizáció, adás típusa) 
+(Frekvencia, teljesítmény, adás típusa) 
 
 1.1 Használt bemenetek:    
 1. multiplex A   
@@ -81,18 +81,23 @@ Az adótorony adatbázisa elérhető itt: fmdx.hu
 
 <details>
     <summary>multiplex:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/6fabf81c-a03b-43a5-805f-2ca912a01042">
+</details>
+
+
+<details>
+    <summary>multiplex:</summary>
+   <img src="https://github.com/user-attachments/assets/45433386-d795-483b-ba14-992d5bd1152d">
 </details>
 
 
 
-1. Frekvencia: 
-2. teljesítmény:   
-3. polarizáció:   
-4. adás típusa: DVB-T    
-5. jelszint: 51 dB  
-6. Mer: 25 dB   
-7. Moduláció: QPSK/8k/1/32
+
+1. Frekvencia: 634 MHz   
+2. adás típusa: DVB-T    
+3. jelszint: 50.3 dBuV  
+4. Mer: 23.6 dB   
+5. Moduláció: QPSK/8k/1/32
 
 
 ------------------------------------------------
@@ -101,28 +106,53 @@ Az adótorony adatbázisa elérhető itt: fmdx.hu
 
 <details>
     <summary>Iniput 1: multiplex A:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/91f6d06d-1985-4a3a-8479-ecfeffea774c">
 </details>
+
+Frekvencia: 666 MHz
+Channe: 45
+Bandwidth: 8MHz
+
+----------------------------------------------
+
 
 
 <details>
     <summary>input 2: multipex B:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/34e89440-b2ae-4fbe-8f11-17a43704c33e">
 </details>
 
+Frekvencia: 586 MHz
+Channe: 35
+Bandwidth: 8MHz
+
+-----------------------------------------------------
 
 
 <details>
     <summary>Input 3: multiplex E:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/dd8753cb-5a10-4186-82d1-e663f2126eba">
 </details>
 
+Frekvencia: 690 MHz
+Channe: 48
+Bandwidth: 8MHz
+
+-------------------------------------------------------
 
 
 <details>
     <summary>Input 4: Miskolc TV:</summary>
-   <img src="">
+   <img src="https://github.com/user-attachments/assets/9058970b-3107-420d-bbe4-a39de381f291">
 </details>
+
+Frekvencia: 634 MHz
+Channe: 41
+Bandwidth: 8MHz
+
+
+--------------------------------------------------------------
+
 
 A stream UDP (User Datagram Protocol)-n keresztül jön.   
 
