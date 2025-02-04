@@ -159,7 +159,30 @@ A stream UDP (User Datagram Protocol)-n keresztül jön.
 -----------------------
 
 
-## 4. Hálózati tesztelés    
+## 4. Hálózati tesztelés  
+
+
+##### Lemco SCL-824CT Programok
+
+| #  | Input  | Program címe          | OriginalService ID | LCN  | Encrypted | TS Output | OutputService ID | IP cím      | IP port | Protokoll |
+|----|--------|----------------------|-------------------|------|-----------|-----------|----------------|------------|--------|-----------|
+| 1  | Input 1 | M1 HD               | 100               | 0    | FTA       | 1         | 100            | 224.0.0.2  | 10001  | UDP       |
+| 2  | Input 1 | M4 Sport HD         | 101               | 0    | FTA       | 1         | 101            | 224.0.0.2  | 10002  | UDP       |
+| 3  | Input 1 | Duna HD             | 102               | 0    | FTA       | 1         | 102            | 224.0.0.2  | 10003  | UDP       |
+| 4  | Input 1 | DunaW/M4Sport+      | 103               | 0    | FTA       | 2         | 103            | 224.0.0.2  | 10004  | UDP       |
+| 5  | Input 1 | Kossuth Radio       | 130               | 0    | FTA       | 4         | 130            | 224.0.0.2  | 10005  | UDP       |
+| 6  | Input 1 | Petőfi Radio        | 131               | 0    | FTA       | 4         | 131            | 224.0.0.2  | 10006  | UDP       |
+| 7  | Input 1 | Bartók Radio        | 132               | 0    | FTA       | 4         | 132            | 224.0.0.2  | 10007  | UDP       |
+| 8  | Input 1 | Dankó Radio         | 133               | 0    | FTA       | 4         | 133            | 224.0.0.2  | 10008  | UDP       |
+| 9  | Input 2 | M2 HD               | 200               | 0    | FTA       | 1         | 200            | 224.0.0.2  | 10009  | UDP       |
+| 10 | Input 2 | M5 HD               | 201               | 0    | FTA       | 2         | 201            | 224.0.0.2  | 10010  | UDP       |
+| 11 | Input 2 | TV2                 | 202               | 0    | FTA       | 1         | 202            | 224.0.0.2  | 10011  | UDP       |
+| 12 | Input 2 | RTL                 | 203               | 0    | FTA       | 1         | 203            | 224.0.0.2  | 10012  | UDP       |
+| 13 | Input 2 | MAX4                | 206               | 0    | FTA       | 2         | 206            | 224.0.0.2  | 10013  | UDP       |
+| 14 | Input 2 | Spektrum Home +     | 207               | 0    | FTA       | 2         | 207            | 224.0.0.2  | 10014  | UDP       |
+| 15 | Input 2 | MinDig TV Plusz Info | 208              | 0    | FTA       | 2         | 208            | 224.0.0.2  | 10015  | UDP       |
+| 16 | Input 3 | HEVC teszt          | 524               | 0    | FTA       | 2         | 524            | 224.0.0.2  | 10016  | UDP       |
+| 17 | Input 4 | Miskolc TV          | 1000              | 0    | FTA       | 2         | 1000           | 224.0.0.2  | 10017  | UDP       |
 
 <details>
     <summary>Hálózati kapcsolat tesztelése multicast IP címre:</summary>
