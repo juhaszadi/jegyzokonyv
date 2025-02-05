@@ -43,13 +43,13 @@ wifi SSID: furti
 Password: furti12345   
 
 Router config: admin  
-Jelszo: admin12345  
+Jelszo: admin12345   
 
-Router Default IP: 192.168.1.1
-Alapértelmezet átjáró: 192.168.1.1
-HCP config 192.168.1.100 - 192.168.1.249
-IGMP Snopping Procotol: ON
-Lan1 –> Lan3 IPTV Bridge
+Router Default IP: 192.168.1.1     
+Alapértelmezet átjáró: 192.168.1.1     
+HCP config 192.168.1.100 - 192.168.1.249        
+IGMP Snopping Procotol: ON      
+Lan1 –> Lan3 IPTV Bridge    
 
 
 
