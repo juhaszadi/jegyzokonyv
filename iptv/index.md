@@ -78,7 +78,7 @@ Az iskola és az adótorony közötti távolság.
 
 <details>
     <summary>GOOGLE map:</summary>
-   <img src="https://github.com/user-attachments/assets/45433386-d795-483b-ba14-992d5bd1152d">
+   <img src="https://github.com/user-attachments/assets/07f635d3-2daa-442c-b126-4b8aa0e34681">
 </details>
 
 
