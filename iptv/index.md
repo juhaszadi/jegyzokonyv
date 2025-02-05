@@ -45,8 +45,8 @@ Password: furti12345
 Router config: admin  
 Jelszo: admin12345  
 
-Router Default IP: 192.168.50.1
-Alapértelmezet átjáró: 192.168.50.1
+Router Default IP: 192.168.1.1
+Alapértelmezet átjáró: 192.168.1.1
 HCP config 192.168.1.100 - 192.168.1.249
 IGMP Snopping Procotol: ON
 Lan1 –> Lan3 IPTV Bridge
@@ -242,11 +242,17 @@ Bitek mintánként: 32
 Bitsebesség: 192 kb/mp  
 
 
------------------------------------------------------------------------------------
-
 
 -------------------
 ## Összegzés
+
+A mérési jegyzőkönyv egy földfelszíni digitális TV vételi rendszer kiépítését és az IPTV rendszer konfigurálását dokumentálja. A mérés során a DVB-T jelet egy LEMCO SCL-824CT fejállomásba vezettem, amely a digitális tartalmat IPTV streamként továbbította. A megfelelő vétel érdekében multicast IP tartományt választottam, és konfiguráltam az IPTV Set-top-boxot. A használt eszközök között szerepelt antenna, digitális TV jelmérő, router és különböző kábelek. A router beállításai is rögzítésre kerültek, beleértve az SSID-t, jelszót és IP-címeket.
+
+Az adás megfelelően érkezett, adatvesztés nem történt. A tesztelésből kiderült: a Mintavételezési gyakoriság (4800 Hz),  Bitek mintánként (32), Bitsebesség (192 kb/mp) A stream UDP (User Datagram Protocol)-n keresztül érkezett.
+Mindezt a fentebb rögzített adatok/mérési eredmények igazolják.
+
+
+---------------------------------------------------------------------
 
 
 Készítette: Juhász Ádám  
