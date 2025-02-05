@@ -37,6 +37,24 @@ A fogható multiplexek jelerősségének ellenőrzése, és a DVB-T jel LEMCO SC
 
 ---------------------------------------------------------------------
 
+#### Router beállításai
+
+wifi SSID: furti    
+Password: furti12345   
+
+Router config: admin  
+Jelszo: admin12345  
+
+Router Default IP: 192.168.50.1
+Alapértelmezet átjáró: 192.168.50.1
+HCP config 192.168.1.100 - 192.168.1.249
+IGMP Snopping Procotol: ON
+Lan1 –> Lan3 IPTV Bridge
+
+
+
+---------------------------------------------------------------------
+
 ## 2.1 Telepített eszközök és Felhasználási céljuk
 
 | Telepítendő eszköz|  	Winget ID 	| Felhasználási cél| 
@@ -54,7 +72,14 @@ A fogható multiplexek jelerősségének ellenőrzése, és a DVB-T jel LEMCO SC
 2. Hőmérséklet: 5C°    
 3. Páratartalom: 58%      
 4. Légnyomás: 1027 mbar     
-5. Szélsebesség: 6.8 km/h  
+5. Szélsebesség: 6.8 km/h
+
+Az iskola és az adótorony közötti távolság.
+
+<details>
+    <summary>GOOGLE map:</summary>
+   <img src="https://github.com/user-attachments/assets/45433386-d795-483b-ba14-992d5bd1152d">
+</details>
 
 
 
@@ -184,41 +209,40 @@ A stream UDP (User Datagram Protocol)-n keresztül jön.
 | 16 | Input 3 | HEVC teszt          | 524               | 0    | FTA       | 2         | 524            | 224.0.0.2  | 10016  | UDP       |
 | 17 | Input 4 | Miskolc TV          | 1000              | 0    | FTA       | 2         | 1000           | 224.0.0.2  | 10017  | UDP       |
 
-<details>
-    <summary>Hálózati kapcsolat tesztelése multicast IP címre:</summary>
-   <img src="">
-</details>
+
+-------------------------------------------------------------------------------------------------
 
 
 <details>
-    <summary>Ping teszt IPTV szerverre:</summary>
-   <img src="">
+    <summary> VLC media playeren behozott adás statisztikája:</summary>
+   <img src="https://github.com/user-attachments/assets/1af6b373-fe22-4bdd-9089-a1712fbfbc24">
 </details>
+
+
+------------------------------------------------------------------------------------------------
+
+<details>
+    <summary>Kodek:</summary>
+   <img src="https://github.com/user-attachments/assets/aa6ff1b7-1ca4-41a1-802d-8175c51b7e01">
+</details>
+
+Puffer dimenziók: 1920x1080  
+Képkocasebesség: 25
   
+----------------------------------------------------------------------------------------
+
 
 <details>
-    <summary>Traceroute vizsgálat (útvonal ellenőrzése):</summary>
-   <img src="">
+    <summary>Kodek2:</summary>
+   <img src="https://github.com/user-attachments/assets/7e47be1f-d8aa-4446-9048-572740740e56">
 </details>
 
-
-
-details>
-    <summary>Wireshark csomagrögzítés IPTV stream vizsgálatához:</summary>
-   <img src="">
-</details>
-
+Mintavételezési gyakoriság: 4800 Hz  
+Bitek mintánként: 32   
+Bitsebesség: 192 kb/mp  
 
 
 -----------------------------------------------------------------------------------
-
-## 4.1 IPTV stream mentése és elemzése
-
-FFmpeg segítségével IPTV stream mentése
-
-FFmpeg segítségével IPTV stream elemzése
-
-FFmpeg segítségével IPTV stream csomagvesztés vizsgálata  
 
 
 -------------------
