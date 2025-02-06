@@ -16,14 +16,17 @@
 
 | Műszer neve                                       | IP. cím       | 
 | ------------------------------------------------- | ----------- | 
-|                         |  |
-|    | | 
-|          |  | 
+|           Catalyst 2950 switch                    |              |
+|  SOHO router – Linksys WRT54GL                    |  DHCP | 
+|      ThinkPad laptop                              |  | 
+|      Mobiltelefon                                 |  |
 
 
-### HP switch (opcionálisan felhasználható)  
-### Laptop vagy PC a konfigurációkhoz és mérésekhez  
-### Iperf szoftver a sávszélesség mérésekhez   
+1.Catalyst 2950 switch: Hálózati eszközök közötti kapcsolatot biztosította.   
+2.SOHO router – Linksys WRT54GL: Hálózat központi irányítószerv.   
+3.ThinkPad laptop: A teszteléshez, ping tesztek és egyéb parancsok.  
+4.Mobiltelefon: Linksys routerhez, hogy a laptop és a többi eszköz között pingelni lehetsen.
+ 
   
 ---------------------------------------------------------------------
 
@@ -40,26 +43,147 @@ A hálózati topológia Cisco Packet Tracer-ben lett megtervezve.
 
 IP-cím kiosztás:
 
-1. Mikrotik LHG18 LTE: 192.168.88.1   
-2. Mikrotik nRay 60GHz Master: 192.168.88.2  
-3. Mikrotik nRay 60GHz Slave: 192.168.88.3  
-4. Router (AP mód): 192.168.88.4  
-5. Switch (ha szükséges): 192.168.88.254  
-6. Kliens laptop: 192.168.88.100-250 (DHCP-ből)  
+1.Catalyst 2950 switch:    
+2.SOHO router – Linksys WRT54GL:   
+3.ThinkPad laptop: 
+4.Mobiltelefon: 
+ 
 
 
 <details>
     <summary>Topológia:</summary>
-   <img src="https://github.com/user-attachments/assets/0c9e5ee7-3f29-4432-a5e5-a049cf54e7ac">
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
 </details>
 
 
 -----------------------
 
+## 3. A számítógép IP beállításai     
 
-## 3. Hálózati tesztelés és hibakeresés  
+## 3.1 Az aktuális IP-cím eldobása   
+Parancs: `ipconfig /release`    
 
-#### Pingek a hálózaton lévő eszközökről  
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+## 3.2 Új IP-cím kérése   
+Parancs: `ipconfig /renew`   
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+## 3.3 A routing tábla megjelenítése   
+Parancs: `netstat -a`
+
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+------------------------------------------------------------------
+
+## 4. Hálózat tesztelése  
+
+## 4.1 A microsoft.com szerver elérhetőségének tesztelése   
+
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+## 4.2 Az www.ipon.hu szerver felé vezető útvonal lekövetése  
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+## 4.3 Használt portok listázása    
+
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+## 4.4 Hálózati kapcsolatok megjelenítése    
+
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+## 4.5 DNS-beállítások aktualizálása       
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+## 4.6 Csatolt hálózati meghajtók megjelenítése     
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+
+
+## 4.7 A www.ipon.hu tartománynév és IP-cím megjelenítése  
+
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+
+---------------------------------------------------------------------------------
+
+## 5. Telefonos tesztelés   
+
+
+## 5.1 Telefon rákapcsolódva a Wi-Fi-re  
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+## 5.2 Telefon pingelése laptopról  
+
+<details>
+    <summary>Topológia:</summary>
+   <img src="https://github.com/user-attachments/assets/9df26b29-6c85-4255-bce0-2098f346c374">
+</details>
+
+
+
+----------------------------------------------------
+## 6. Router konfigurációk
+
 
 Mikrotik LHG18 LTE antenna (192.168.188.1)  
 
