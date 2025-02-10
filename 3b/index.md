@@ -97,7 +97,7 @@ Vpp: 1.19V
 
 -------------------
 ## Összegzés
-
+A kapcsolás összeállítása után sikeresen lelett mérve a jelszint. Probléma nem adódott a mérés során. A jegyzőkönyv igazolja az állításokat.   
  
 
 Készítette: Juhász Ádám  
