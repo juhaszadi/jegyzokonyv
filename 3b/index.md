@@ -51,7 +51,7 @@
 
 
 RF vivőfrekvencia: 880 MHz     
-Sávszélesség: 5MHz   
+Sávszélesség: 5MHz    
 Modulációs mélység: 100% (-6dB)   
    
 -------------------------------------------------------------------------
@@ -81,9 +81,9 @@ Vpp: 1.15V
 </details>
 
 
-RF vivőfrekvencia: 900 MHz
-Sávszélesség: 5MHz   
-Modulációs mélység: 63% (-10dB)   
+RF vivőfrekvencia: 900 MHz     
+Sávszélesség: 5MHz      
+Modulációs mélység: 63% (-10dB)     
 
 ---------------------------------------------------------------------------
            
@@ -92,7 +92,7 @@ Modulációs mélység: 63% (-10dB)
    <img src="https://github.com/user-attachments/assets/8a7d6902-b7e5-4df9-ae80-04e0f56a35c8">
 </details>
 
-Vpp: 1.19V   
+Vpp: 1.19V    
 
 
 -------------------
