@@ -101,4 +101,4 @@ A kapcsolás összeállítása után sikeresen lelett mérve a jelszint. Problé
  
 
 Készítette: Juhász Ádám  
-Dátum: 2025.01.29.  
+Dátum: 2025.02.10.  
