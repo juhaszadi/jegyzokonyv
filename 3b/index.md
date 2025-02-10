@@ -17,8 +17,12 @@
 | Műszer neve                                       |  
 | ------------------------------------------------- | 
 | GRF-1300A RF és kommunikációs tréner              |  
-| Spektrumanalizátor                                | 
-|   Jelgenerátor                                    |   
+| GSP-730 Spektrumanalizátor                        | 
+|   HMO-1002 Digitális tárolós oszcilloszkóp        |   
+
+#### RF wire 2db 100mm
+#### RF wire 1db 800mm
+#### Adapter 1db N-SMA
 
    
 
@@ -29,51 +33,72 @@
 
 
   
----------------------------------------------------------------------
-
-
-## 2. RF vivőfrekvencia    
+   ---------------------------------------------------------------------
 
 
 
-## 2.1 Moduláló jele  
+## 2. RF vivőfrekvencia 880 MHz  
+## Moduláló jele  100kHZ  
+## 100% modulációs mélységen   
+
+-------------------------------------------------------------------------
+     
+
+<details>
+    <summary>GSP-730 6dB:</summary>
+   <img src="https://github.com/user-attachments/assets/91d874cf-ced9-4265-ba82-2f4adfa0fedd">
+</details>
 
 
+RF vivőfrekvencia: 880 MHz     
+Sávszélesség: 5MHz   
+Modulációs mélység: 100% (-6dB)   
+   
 -------------------------------------------------------------------------
 
 
+<details>
+    <summary>HMO-1002:</summary>
+   <img src="https://github.com/user-attachments/assets/5cacc9be-e199-4ba7-97cd-3cfa23b903da">
+</details>
 
-## 3. AM jel spektruma  
+Vpp: 1.15V
 
-
-
-
-## 3.1 Jelszint   
-
-
-
-
-## 3.2 Sávszélesség    
+-------------------------------------------------------------------------  
 
 
 
+## 3. RF vivőfrekvencia 900 MHz   
+## Moduláló jele  500kHZ   
+## 63% modulációs mélysége    
 
-## 3.3 Modulációs mélység
+-------------------------------------------------------------------------
+    
+
+<details>
+    <summary>GSP-730 10dB:</summary>
+   <img src="https://github.com/user-attachments/assets/7528e406-a3a2-4f6c-8298-1b9fb4ced088">
+</details>
 
 
+RF vivőfrekvencia: 900 MHz
+Sávszélesség: 5MHz   
+Modulációs mélység: 63% (-10dB)   
 
+---------------------------------------------------------------------------
+           
+<details>
+    <summary>HMO-1002:</summary>
+   <img src="https://github.com/user-attachments/assets/8a7d6902-b7e5-4df9-ae80-04e0f56a35c8">
+</details>
 
+Vpp: 1.19V   
 
 
 -------------------
 ## Összegzés
 
-A mérés célja egy összetett távközlési hálózat tervezése, telepítése és mérése volt.  
-A hálózati topológia egy LTE kapcsolaton alapuló internetkapcsolatot, egy 60GHz-es mikrohullámú összeköttetést és egy vezeték nélküli hozzáférési pontot (AP) tartalmazott, amelyhez a kliensek csatlakoztak. A jegyzőkönyv ezen része a hálózati eszközök közötti kapcsolatok tesztelését és az esetleges hibák elhárítását tartalmazza, például ping teszteket az eszközök között.  
-
-A jegyzőkönyv részletesen bemutatja a mérés során alkalmazott eszközöket, a hálózati topológiát és az IP-címek kiosztását, valamint a hálózati tesztelés és hibakeresés lépéseit.  
-
-A hálózat hiba mentesen működött, adat vesztés nem történt. Össze építése és felconfigurálása nagyjából 2 órát vett igénybe.  
+ 
 
 Készítette: Juhász Ádám  
 Dátum: 2025.01.29.  
