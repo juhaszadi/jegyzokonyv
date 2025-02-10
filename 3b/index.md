@@ -38,7 +38,7 @@
 
 
 ## 2. RF vivőfrekvencia 880 MHz  
-## Moduláló jele  100kHZ  
+## Moduláló jele  100kHz  
 ## 100% modulációs mélységen   
 
 -------------------------------------------------------------------------
