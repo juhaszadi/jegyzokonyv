@@ -21,6 +21,13 @@
 |   Jelgenerátor                                    |   
 
    
+
+<details>
+    <summary>GRF-1300A RF:</summary>
+   <img src="https://github.com/user-attachments/assets/43825040-4d04-49b0-9ccf-50d4a3bcadee">
+</details>
+
+
   
 ---------------------------------------------------------------------
 
