@@ -69,7 +69,7 @@ Vpp: 1.15V
 
 
 ## 3. RF vivőfrekvencia 900 MHz   
-## Moduláló jele  500kHZ   
+## Moduláló jele  500kHz   
 ## 63% modulációs mélysége    
 
 -------------------------------------------------------------------------
