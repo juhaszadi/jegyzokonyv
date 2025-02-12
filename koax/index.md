@@ -32,58 +32,34 @@ A készített koax kábel:
 
 -------------------------------------------------------------------
 
-## CH69: 858 MHz    
+
+
+## CH69: 858 MHz  
+
+
 
 <img src="https://github.com/user-attachments/assets/0750e9a3-fe9c-4d00-b88d-487ccc034f17">
+
+
+-------------------------------------------------------------------------
+## CH5: 177.5 MHz 
 
 <img src="https://github.com/user-attachments/assets/715a4a7f-0446-441a-b0d4-c0befa631f04">
 
 
 -------------------------------------------------------------------------
 
+| Frekvencia                        | jelszint      | csillapítás |
+| ----------------------------------- | ----------- | ------------- |
+|      858 MHz                     |   89.2 dBuV          | 0.8 dBuV      |
+|      177.5 MHz            |     89.4 dBuV        |   0.6 dBuV            |
 
-<details>
-    <summary>HMO-1002:</summary>
-   <img src="https://github.com/user-attachments/assets/5cacc9be-e199-4ba7-97cd-3cfa23b903da">
-</details>
-
-Vpp: 1.15V
 
 -------------------------------------------------------------------------  
 
 
-
-## 3. RF vivőfrekvencia 900 MHz   
-## Moduláló jele  500kHz   
-## 63% modulációs mélysége    
-
--------------------------------------------------------------------------
-    
-
-<details>
-    <summary>GSP-730 10dB:</summary>
-   <img src="https://github.com/user-attachments/assets/7528e406-a3a2-4f6c-8298-1b9fb4ced088">
-</details>
-
-
-RF vivőfrekvencia: 900 MHz     
-Sávszélesség: 5MHz      
-Modulációs mélység: 63% (10dB)     
-
----------------------------------------------------------------------------
-           
-<details>
-    <summary>HMO-1002:</summary>
-   <img src="https://github.com/user-attachments/assets/8a7d6902-b7e5-4df9-ae80-04e0f56a35c8">
-</details>
-
-Vpp: 1.19V    
-
-
--------------------
 ## Összegzés
-A kapcsolás összeállítása után sikeresen lelett mérve a jelszint. Probléma nem adódott a mérés során. A jegyzőkönyv igazolja az állításokat.   
- 
+A kábel elkészítése után, méréseket végeztem. A fentebb rögzített adatokat kaptam.   
 
 Készítette: Juhász Ádám  
-Dátum: 2025.02.10.  
+Dátum: 2025.02.12.  
