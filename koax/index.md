@@ -17,12 +17,12 @@
 | Műszer neve                                       |  
 | ------------------------------------------------- | 
 | Metek HDD              |  
-|         Johansson HDMI Modulator               | 
-  
+|         Kábelek és eszközök              | 
+| ------------------------------------------------- | 
+|         Koax kábel               |   
+|         Rotációs blankoló              | 
+|         2db F csatlakozó               | 
 
-#### Koax kábel
-#### Rotációs blankoló
-#### 2db F csatlakozó
 
 A készített koax kábel:   
 
