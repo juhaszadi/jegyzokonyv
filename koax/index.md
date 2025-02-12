@@ -17,6 +17,7 @@
 | Műszer neve                                       |  
 | ------------------------------------------------- | 
 | Metek HDD              |  
+| Johansson HDMI Modulator             |  
 
 
 |         Kábelek és eszközök              | 
