@@ -24,33 +24,21 @@
 #### Rotációs blankoló
 #### 2db F csatlakozó
 
-   
-<img src="https://github.com/user-attachments/assets/43825040-4d04-49b0-9ccf-50d4a3bcadee">
+A készített koax kábel:   
 
 
+<img src="https://github.com/user-attachments/assets/246af1b6-aaca-4d89-978b-f31ec5bd992f">
+<img src="https://github.com/user-attachments/assets/3d639d9b-4c00-4eaf-a418-4062338be4e1">
 
-  
-   ---------------------------------------------------------------------
+-------------------------------------------------------------------
 
+## CH69: 858 MHz    
 
+<img src="https://github.com/user-attachments/assets/0750e9a3-fe9c-4d00-b88d-487ccc034f17">
 
-## 2. RF vivőfrekvencia 880 MHz  
-## Moduláló jele  100kHz  
-## 100% modulációs mélységen   
-
--------------------------------------------------------------------------
-     
-
-<details>
-    <summary>GSP-730 6dB:</summary>
-   <img src="https://github.com/user-attachments/assets/91d874cf-ced9-4265-ba82-2f4adfa0fedd">
-</details>
+<img src="https://github.com/user-attachments/assets/715a4a7f-0446-441a-b0d4-c0befa631f04">
 
 
-RF vivőfrekvencia: 880 MHz     
-Sávszélesség: 5MHz    
-Modulációs mélység: 100% (6dB)   
-   
 -------------------------------------------------------------------------
 
 
