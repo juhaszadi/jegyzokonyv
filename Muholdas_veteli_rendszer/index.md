@@ -55,7 +55,7 @@ Helyszín: Miskolci SZC Kandó Kálmán Informatikai Technikum parkoló
 
 Antenna pozíciók és szögek:  
 
-Hőmérséklet 6C°  
+Hőmérséklet: 6C°  
 
 Szélsebesség: 5.8 km/h 
 
@@ -63,45 +63,29 @@ Páratartalom: 66%
 
 Légnyomás: 1028mbar
 
------------------------------
-
-Spektrum analizátor képe
-
-
-<img src="">
-
--------------------------
-Jelszintek és jelminőség
-
-
-<img src="">
-
--------------------------
-Kimenő feszültség és áramerősség az LNB-re
-
-
-<img src="">
-
-----------------------------
-
-Polarizáció
-
-<img src="">
 
 
 -------------------------------------------------------------------------
+## 4. METEK HDD műholdas jelmérő (jelszintek és jelminősg)  
 
-| Frekvencia                        | jelszint      | csillapítás |
-| ----------------------------------- | ----------- | ------------- |
-|      858 MHz                     |   89.2 dBuV          | 0.8 dBuV      |
-|      177.5 MHz            |     89.4 dBuV        |   0.6 dBuV            |
+<img src="https://github.com/user-attachments/assets/dd1c2d42-9f06-4898-9f46-c36c27bda5f2">
 
+| Frekvencia                        | jelszint      | Noise margin | MER   | CBER|| VBER |
+| --------------------------------- | ----------- | ------------- |------  |-----| -------|
+|      11958 MHz                     |   69.9 dBuV    |  4.7      | 11.5 dB| 2.44E-2| 0.00E-6 |
+
+
+------------------------------------
+
+## 4.1 Fogott csatornák 
+
+<img src="https://github.com/user-attachments/assets/a6bc5c27-8937-4e66-8f41-3d9ec90fc448">
 
 -------------------------------------------------------------------------  
 
 
 ## Összegzés
-A kábel elkészítése után, méréseket végeztem. A fentebb rögzített adatokat kaptam.   
+ 
 
 Készítette: Juhász Ádám  
-Dátum: 2025.02.12.  
+Dátum: 2025.03.03.    
