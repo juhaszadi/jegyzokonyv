@@ -54,6 +54,8 @@ Helyszín: Miskolci SZC Kandó Kálmán Informatikai Technikum parkoló
 
 Antenna pozíciók és szögek:  197°
 
+Polarizáci függőleges
+
 Hőmérséklet: 6C°  
 
 Szélsebesség: 5.8 km/h 
