@@ -83,7 +83,7 @@ Légnyomás: 1028mbar
 -------------------------------------------------------------------------  
 
 ## Összegzés
- 
+A mérés helyszíne Miskolcon, a SZC Kandó Kálmán Informatikai Technikum parkolójában zajlott, ahol a parabolaantenna pozicionálása után a jelszintet és egyéb paraméterek mérse törtnt. A mért frekvencia 11958 MHz, és a jelszint 69.9 dBuV volt. A dokumentáció tartalmazza a műholdas jelminőség adatokat is, mint a Noise Margin, MER, CBER, és VBER értékeket.
 
 Készítette: Juhász Ádám  
 Dátum: 2025.03.03.    
