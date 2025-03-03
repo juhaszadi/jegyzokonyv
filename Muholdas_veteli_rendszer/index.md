@@ -66,13 +66,13 @@ Légnyomás: 1028mbar
 
 
 -------------------------------------------------------------------------
-## 4. METEK HDD műholdas jelmérő (jelszintek és jelminősg)  
+## 4. METEK HDD műholdas jelmérő (jelszintek és jelminősg)    
 
-<img src="https://github.com/user-attachments/assets/dd1c2d42-9f06-4898-9f46-c36c27bda5f2">
+<img src="https://github.com/user-attachments/assets/dd1c2d42-9f06-4898-9f46-c36c27bda5f2">   
 
-| Frekvencia                        | jelszint      | Noise margin | MER   | CBER|| VBER |
-| --------------------------------- | ----------- | ------------- |------  |-----| -------|
-|      11958 MHz                     |   69.9 dBuV    |  4.7      | 11.5 dB| 2.44E-2| 0.00E-6 |
+| Frekvencia                        | jelszint      | Noise margin | MER   | CBER|| VBER |   
+| --------------------------------- | ----------- | ------------- |------  |-----| -------|   
+|      11958 MHz                     |   69.9 dBuV    |  4.7      | 11.5 dB| 2.44E-2| 0.00E-6 |    
 
 
 ------------------------------------
