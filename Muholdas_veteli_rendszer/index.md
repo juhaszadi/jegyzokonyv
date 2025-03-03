@@ -43,7 +43,6 @@ Műholdas vételi rendszer kiépítése, egy szabadon fogható (FTA) csatorna je
 Műhold azonosítás: Eutelsat 9B at 9.0°E 192.05° & 35.32° 
 
 
-<img src="">
 
 
 -------------------------------------------------------------------------
@@ -53,7 +52,7 @@ Helyszín: Miskolci SZC Kandó Kálmán Informatikai Technikum parkoló
 
 ----------------------------------------------------------------------- 
 
-Antenna pozíciók és szögek:  
+Antenna pozíciók és szögek:  197°
 
 Hőmérséklet: 6C°  
 
@@ -82,7 +81,6 @@ Légnyomás: 1028mbar
 <img src="https://github.com/user-attachments/assets/a6bc5c27-8937-4e66-8f41-3d9ec90fc448">
 
 -------------------------------------------------------------------------  
-
 
 ## Összegzés
  
