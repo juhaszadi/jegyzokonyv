@@ -78,10 +78,19 @@ Multiplex E (586 MHz)
 
 <img src="https://github.com/user-attachments/assets/f57188eb-ba2c-495b-8000-c34749912b03">
 
+Power: 66.9dBuV  
+Noise Margin: 6.2  
+MER: 22.9dB  
+Packet Errors: 0
+Elapsed time: 4
+
 -----------------------------------------
 
 <img src="https://github.com/user-attachments/assets/b767e702-5bb5-47f6-8ba1-a79b7ead6b11">
 
+
+TV2
+Reslution: 720x576  
 
 --------------------------------
 
@@ -89,10 +98,9 @@ Multiplex E (586 MHz)
 -------------------
 ## Összegzés
 
-A mérési jegyzőkönyv egy földfelszíni digitális TV vételi rendszer kiépítését és az IPTV rendszer konfigurálását dokumentálja. A mérés során a DVB-T jelet egy LEMCO SCL-824CT fejállomásba vezettem, amely a digitális tartalmat IPTV streamként továbbította. A megfelelő vétel érdekében multicast IP tartományt választottam, és konfiguráltam az IPTV Set-top-boxot. A használt eszközök között szerepelt antenna, digitális TV jelmérő, router és különböző kábelek. A router beállításai is rögzítésre kerültek, beleértve az SSID-t, jelszót és IP-címeket.
-
-Az adás megfelelően érkezett, adatvesztés nem történt. A tesztelésből kiderült: a Mintavételezési gyakoriság (4800 Hz),  Bitek mintánként (32), Bitsebesség (192 kb/mp) A stream UDP (User Datagram Protocol)-n keresztül érkezett.
-Mindezt a fentebb rögzített adatok/mérési eredmények igazolják.
+A mérési jegyzőkönyv egy földfelszíni digitális TV vételi rendszer kiépítését és dokumentálja. A mérés során a DVBT jelet egy Beltéri egységbe (NYTRO BOX plus) vezettem, amely a digitális tartalmat streamként továbbította a TV-re. A megfelelő vétel érdekében Iskra INDOOR ANTENNA-t használtam.    
+Az adás megfelelően érkezett, adatvesztés nem történt.   
+Mindezt a fentebb rögzített adatok/mérési eredmények igazolják.  
 
 
 ---------------------------------------------------------------------
